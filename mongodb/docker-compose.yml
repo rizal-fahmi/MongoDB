@@ -11,4 +11,4 @@ services:
     command: mongod
 
 volumes:
-  mongodb_data:
+  mongo_data:
